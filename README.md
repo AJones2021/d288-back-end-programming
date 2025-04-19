@@ -5,8 +5,11 @@ This project is a full-stack e-commerce project using Spring Boot. I was given t
 
 In this project I was able to:
 
-Develop object-oriented applications that worked with the relational databases
-Develop a customer information input, cart, cartitems, order tracking
-Implement REST
-Create two validations: One for customer information, another for items placed in a cart. 
+    Develop object-oriented applications that worked with the relational databases
+
+    Develop a customer information input, cart, cartitems, order tracking
+
+    Implement REST
+
+    Create two validations: One for customer information, another for items placed in a cart. 
 
